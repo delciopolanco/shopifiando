@@ -1,2 +1,0 @@
-# shopifiando
-Proximamente shopifiando
